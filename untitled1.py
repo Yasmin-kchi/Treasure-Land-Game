@@ -47,7 +47,7 @@ if answer1 == "left":
 else:
     print("You fell into a hole. Game Over.")
 
-### more ttracive:(by chatGPT)
+### more atracive:(by chatGPT)
 print('''
 *******************************************************************************
           |                   |                  |                     |
